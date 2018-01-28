@@ -1,7 +1,5 @@
 # cue.language #
 
-Test Comment
-
 ## What? ##
 
 cue.language is a small library of Java code and resources
